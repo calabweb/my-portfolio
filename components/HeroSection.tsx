@@ -50,12 +50,12 @@ Identify opportunities for process and office management improvement. Provide th
                 View My GitHub
               </a>
               <a
-                href="https://www.facebook.com/calebvanmaboya.dukz"
+                href="https://www.linkedin.com/feed/?trk=guest_homepage-basic_google-one-tap-submit"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="bg-teal-500 text-white px-4 py-2 rounded-full font-semibold transition duration-300 hover:bg-teal-700"
               >
-                My Facebook Profile
+                My LinkedIn
               </a>
             </div>
           </div>

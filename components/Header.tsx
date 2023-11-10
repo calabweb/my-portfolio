@@ -38,8 +38,8 @@ const Header = () => {
               </SheetContent>
             </Sheet>
             <Link href="/" className="text-sm font-medium transition-colors">
-              <h1 className="text-2xl md:text-4xl font-bold text-teal-400">
-                Calab maboya
+              <h1 className="text-2xl md:text-4xl font-bold text-dark to-blue-800-400">
+                CALAB`S PORTFOLIO
               </h1>
             </Link>
           </div>

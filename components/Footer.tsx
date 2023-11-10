@@ -3,11 +3,11 @@ import { FaGithub, FaTwitter, FaLinkedin } from 'react-icons/fa';
 
 const Footer = () => {
   return (
-    <footer className="bg-purple-900 text-white py-4">
+    <footer className="bg- navy to-blue-600-900 text-white py-4">
       <div className="container mx-auto text-center flex flex-col md:flex-row justify-between items-center">
         <div className="flex justify-center space-x-4">
           <a
-            href="https://github.com/dev1980"
+            href="https://github.com/calabweb"
             target="_blank"
             rel="noopener noreferrer"
           >
@@ -21,17 +21,17 @@ const Footer = () => {
             <FaTwitter size={24} />
           </a>
           <a
-            href="https://www.linkedin.com/in/dev1980/"
+            href="https://www.linkedin.com/feed/?trk=guest_homepage-basic_google-one-tap-submit"
             target="_blank"
             rel="noopener noreferrer"
           >
             <FaLinkedin size={24} />
           </a>
-          <p>&copy; {new Date().getFullYear()} Calab Maboya </p>
+          <p>&copy; {new Date().getFullYear()}calabmaboya</p>
         </div>
 
         <div className="flex flex-col">
-          <p>Phone: 0798117279/ 0813324587</p>
+          <p>Phone:0798117279/0813324587</p>
           <p>Email:calabmaboya@gmail.com</p>
         </div>
       </div>

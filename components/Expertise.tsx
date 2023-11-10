@@ -18,8 +18,8 @@ const Expertise = () => {
   ];
 
   return (
-    <div className="bg-white shadow-md p-4 rounded-lg">
-      <h2 className="text-2xl font-semibold mb-4">My Expertise Includes:</h2>
+    <div className="bg-blue shadow-md p-4 rounded-lg">
+      <h2 className="text-2xl font-semibold mb-4">My Web Development Expertise Includes:</h2>
       <ul className="list-disc pl-6">
         {expertiseList.map((item, index) => (
           <li key={index} className="mb-4">

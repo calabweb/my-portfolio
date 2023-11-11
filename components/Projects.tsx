@@ -23,7 +23,7 @@ const projects = [
     name: 'Product Landing Page',
     description:
       'This project is a Product landing page using HTML CSS',
-    image: 'Product-screen',
+    image: '/Product-screen.png',
     github: 'https://github.com/calabweb/product_landing_page',
     link: 'https://654f4d7d4389ab15410f5864--visionary-raindrop-a318b8.netlify.app/',
   },

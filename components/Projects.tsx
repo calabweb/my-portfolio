@@ -20,12 +20,12 @@ const projects = [
     link: 'https://654f2bce77b78a7c8b8dbeb3--meek-zuccutto-6e6ed3.netlify.app/',
   },
   {
-    name: 'Newsweek.com Clone',
+    name: 'Product Landing Page',
     description:
-      'This project is a clone of news site Newsweek.com using the Bootstrap framework.',
-    image: '/newsweek.png',
-    github: 'https://github.com/dev1980/Newsweek-Using-Bootstrap',
-    link: 'https://dev1980.github.io/Newsweek-Using-Bootstrap/',
+      'This project is a Product landing page using HTML CSS',
+    image: 'Product-screen',
+    github: 'https://github.com/calabweb/product_landing_page',
+    link: 'https://654f4d7d4389ab15410f5864--visionary-raindrop-a318b8.netlify.app/',
   },
 ];
 

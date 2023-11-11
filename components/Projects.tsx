@@ -9,15 +9,15 @@ const projects = [
     description:
       'ThankfulThoughts is a web app that generates an appreciative sentence of something or someone you are thankful for.',
     image: '/thankfulthoughts.png',
-    github: 'https://github.com/hqasmei/thankful-thoughts',
+    github: 'https://github.com/calabweb/thankful-thoughts-main',
     link: 'https://thankfulthoughts.io/',
   },
   {
-    name: 'PlatoIO',
-    description: 'PlatoIO is a to do list app that built using the PERN stack.',
-    image: '/platoio.png',
-    github: 'https://github.com/hqasmei/platoio',
-    link: 'https://platoio.com/register',
+    name: 'My Tune',
+    description: 'Html css template for my tune music web site',
+    image: '/tune-screen.png',
+    github: 'https://github.com/calabweb/myTunes',
+    link: 'https://654f2bce77b78a7c8b8dbeb3--meek-zuccutto-6e6ed3.netlify.app/',
   },
   {
     name: 'Newsweek.com Clone',

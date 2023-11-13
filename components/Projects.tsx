@@ -13,7 +13,7 @@ const projects = [
     link: 'https://thankfulthoughts.io/',
   },
   {
-    name: 'My Tune',
+    name: 'My Tunes',
     description: 'Html css template for my tune music web site',
     image: '/tune-screen.png',
     github: 'https://github.com/calabweb/myTunes',
@@ -35,7 +35,7 @@ const ProjectsSection = () => {
     <Container>
       <section id="projects" className="my-5">
         <h1 className="my-10 text-center font-bold text-4xl">
-          Projects
+          My Projects
           <hr className="w-6 h-1 mx-auto my-4 bg-neutral-800-500 border-0 rounded"></hr>
         </h1>
 

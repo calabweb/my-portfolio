@@ -39,7 +39,7 @@ const Header = () => {
             </Sheet>
             <Link href="/" className="text-sm font-medium transition-colors">
               <h1 className="text-2xl md:text-4xl font-bold text-dark to-blue-800-400">
-                CALAB`S PORTFOLIO
+                CALEB MABOYA
               </h1>
             </Link>
           </div>
@@ -51,7 +51,7 @@ const Header = () => {
             ))}
           </nav>
           <div className="flex flex-col bg-slate-300 rounded-sm p-2">
-            <p>Phone:0798117279</p>
+            <p>Phone:0798117279/0813324587</p>
             <p>Email:calabmaboya@gmail.com</p>
           </div>
           <Button

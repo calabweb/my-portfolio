@@ -119,7 +119,7 @@ inventories.
           </section>
           <section className="md:w-1/2 ">
             <div className="text-center md:w-1/2 md:text-left">
-              <h1 className="text-2xl font-bold mb-6">My Skills</h1>
+              <h1 className="text-2xl font-bold mb-6">Skills</h1>
               <div className="flex flex-wrap flex-row justify-center z-10 md:justify-start my-4">
                 {skills.map((item, idx) => {
                   return (

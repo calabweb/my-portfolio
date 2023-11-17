@@ -27,6 +27,15 @@ const projects = [
     github: 'https://github.com/calabweb/product_landing_page',
     link: 'https://654f4d7d4389ab15410f5864--visionary-raindrop-a318b8.netlify.app/',
   },
+
+  {
+    name: 'My Business Page',
+    description:
+      'Caleb M Holdings Pty Ltd is a very unigue company in our industry, we specialize in corporate events, weddings, parties, funerals etc..',
+    image: '/my-business.jpg',
+    github: 'https://github.com/calabweb/Caleb-M-Holdings-Pty-Ltd',
+    link: 'https://caleb-m-holdings-pty-ltd.vercel.app/',
+  },
 ];
 
 
